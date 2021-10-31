@@ -1,0 +1,42 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    font-kerning: auto;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(110, 224, 17);
+    line-height: 3;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+body{
+    background-size: cover;
+}
+.heading_1{
+    color: white;
+}
